@@ -1,6 +1,6 @@
 - 📫 You reach me at feherdonat99@gmail.com
-- I started making videos from my projects: https://youtube.com/playlist?list=PL_C-OM1m6-6eBrRhJymmEfuytpHSi-OiN
-- My website: www.donatfeher.intelligentbusiness.hu
+- 📹 I started making videos from my projects: https://youtube.com/playlist?list=PL_C-OM1m6-6eBrRhJymmEfuytpHSi-OiN
+- 🕸 My website: www.donatfeher.intelligentbusiness.hu
 
 
 
