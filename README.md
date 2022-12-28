@@ -1,12 +1,3 @@
-- 📫 You reach me at feherdonat99@gmail.com
-- 📹 I started making videos from my projects: https://youtube.com/playlist?list=PL_C-OM1m6-6eBrRhJymmEfuytpHSi-OiN
-- 🕸 My website: www.donatfeher.intelligentbusiness.hu
+Hello, my name is Donat Feher and I am a Computer Science Engineer student from Hungary currently living in Aarau, Switzerland. During my studies, I have specialized in web and mobile application development, and am currently completing a full-stack web development course at upskillcourses.com while working on my thesis. I am interested in pursuing a master's degree after completing my bachelor's degree.
 
-
-
-
-
-<!---
-Dodni/Dodni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am actively seeking a full-time or part-time internship in the field of IT to gain practical experience and further my professional development. You can find more information about my skills and experience on my LinkedIn profile at https://linktr.ee/donatfeher. Thank you for considering me for potential opportunities.
