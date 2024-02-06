@@ -1,3 +1,1 @@
-Hello, my name is Donat Feher and I am a Computer Science Engineer student from Hungary currently living in Aarau, Switzerland. During my studies, I have specialized in web and mobile application development, and am currently completing a full-stack web development course at upskillcourses.com while working on my thesis. I am interested in pursuing a master's degree after completing my bachelor's degree.
 
-I am actively seeking a full-time or part-time internship in the field of IT to gain practical experience and further my professional development. You can find more information about my skills and experience on my LinkedIn profile at https://linktr.ee/donatfeher. Thank you for considering me for potential opportunities.
